@@ -40,3 +40,5 @@ Modify the files in the `binder` sub-directory to specify required dependencies 
 
  - modify the following link to launch your repo in an RStudio binder (`USER`, `REPO`, `BRANCH`): `http://mybinder.org/v2/gh/USER/REPO/BRANCH?urlpath=rstudio`
  - modify the following markdown code to create a launch badge like the one at the top of this README: `[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/USER/REPO/BRANCH?urlpath=rstudio)`
+ - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kunxing97/r_with_python_new.git/HEAD)
+ - 
